@@ -19,6 +19,7 @@
             android:scaleType="centerCrop"
             android:id="@+id/headingImage"
             android:layout_margin="10dp"
+            app:shapeAppearance="@style/SoftCorner"
             android:src="@drawable/img3">
 
         </com.google.android.material.imageview.ShapeableImageView>
